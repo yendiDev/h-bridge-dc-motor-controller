@@ -11,9 +11,11 @@ Below are screenshots of the PCB:
 
 ### PCB Layout:
 Front layer:
+
 ![Capture](https://github.com/user-attachments/assets/98ade8c4-b64d-459a-be91-9940f53ada34)
 
 Bottom layer:
+
 ![Capture](https://github.com/user-attachments/assets/b3454ef8-a81f-49b0-810d-e6326dba4a12)
 
 ### 3D view of PCB:
